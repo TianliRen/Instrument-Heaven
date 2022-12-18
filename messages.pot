@@ -1,0 +1,1214 @@
+# Translations template for PROJECT.
+# Copyright (C) 2022 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2022-06-02 00:15+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: app/admin/views.py:46 app/templates/admin/category.html:86
+#: app/templates/admin/category.html:115 app/templates/admin/category.html:144
+#: app/templates/admin/pandemic.html:35 app/templates/admin/product.html:148
+#: app/templates/admin/product.html:177
+#: app/templates/admin/product_modify.html:141
+#: app/templates/my-account.html:158 app/templates/order.html:170
+msgid "Close"
+msgstr ""
+
+#: app/admin/views.py:48 app/templates/admin/pandemic.html:33
+msgid "Open"
+msgstr ""
+
+#: app/auth/forms.py:13
+msgid "Keep me signed in "
+msgstr ""
+
+#: app/auth/forms.py:14
+msgid "Sign in"
+msgstr ""
+
+#: app/auth/forms.py:26
+msgid "Sign up"
+msgstr ""
+
+#: app/auth/forms.py:42 app/auth/forms.py:48
+msgid "Reset My Password"
+msgstr ""
+
+#: app/templates/about.html:5 app/templates/about.html:18
+#: app/templates/about.html:23 app/templates/base.html:179
+#: app/templates/base.html:264 app/templates/base.html:282
+msgid "About Us"
+msgstr ""
+
+#: app/templates/about.html:22 app/templates/auth/login.html:26
+#: app/templates/auth/register.html:21
+#: app/templates/auth/reset_password_application.html:21
+#: app/templates/auth/reset_password_execution.html:21
+#: app/templates/base.html:99 app/templates/cart.html:21
+#: app/templates/checkout.html:21 app/templates/contact.html:13
+#: app/templates/my-account.html:21 app/templates/order.html:21
+#: app/templates/portfolio.html:22 app/templates/shop.html:245
+#: app/templates/single-product.html:29
+msgid "Home"
+msgstr ""
+
+#: app/templates/about.html:42
+msgid "OUR COMPANY"
+msgstr ""
+
+#: app/templates/about.html:43
+msgid "MUSICAL INSTRUMENT SHOP"
+msgstr ""
+
+#: app/templates/about.html:43
+msgid "MUSIC ZONE"
+msgstr ""
+
+#: app/templates/about.html:43
+msgid ""
+"was founded in 1993 by the BECKER family in Dublin, Ireland, and is a "
+"family-owned musical instrument sales business. All of its business have "
+"been walk-in retail customers, and the company now wanted to expand into "
+"the online market."
+msgstr ""
+
+#: app/templates/about.html:45 app/templates/index-3.html:75
+msgid ""
+"Since its establishment, the company has always been in pursuit of "
+"excellent quality, providing sincere service as the purpose, and hoping "
+"that every local people can enjoy the fun brought by music."
+msgstr ""
+
+#: app/templates/about.html:47
+msgid ""
+"The main products are piano, violin, guitar, and other more than ten "
+"varieties and ancillary services, selling well in Dublin."
+msgstr ""
+
+#: app/templates/about.html:48
+msgid "view work"
+msgstr ""
+
+#: app/templates/about.html:70
+msgid "happy customers"
+msgstr ""
+
+#: app/templates/about.html:87
+msgid "AWARDS WINNED"
+msgstr ""
+
+#: app/templates/about.html:104
+msgid "Efficient after-sales"
+msgstr ""
+
+#: app/templates/about.html:121
+msgid "instruments sold"
+msgstr ""
+
+#: app/templates/about.html:137
+msgid "WE HAVE SKILLS TO SHOW"
+msgstr ""
+
+#: app/templates/about.html:141
+msgid "Fast delivery"
+msgstr ""
+
+#: app/templates/about.html:149
+msgid "friendly attitude"
+msgstr ""
+
+#: app/templates/about.html:157
+msgid "quality instrument"
+msgstr ""
+
+#: app/templates/about.html:165
+msgid "good after-sales service"
+msgstr ""
+
+#: app/templates/admin/base.html:54 app/templates/admin/live.html:11
+#: app/templates/base.html:6 app/templates/blog-base.html:75
+#: app/templates/index-3.html:9 app/templates/single-product.html:318
+msgid "Music Zone"
+msgstr ""
+
+#: app/templates/base.html:100 app/templates/shop.html:246
+msgid "Shop"
+msgstr ""
+
+#: app/templates/base.html:114 app/templates/base.html:140
+msgid "Your Cart"
+msgstr ""
+
+#: app/templates/base.html:131 app/templates/cart.html:90
+msgid "Subtotal"
+msgstr ""
+
+#: app/templates/base.html:134
+msgid "View all"
+msgstr ""
+
+#: app/templates/base.html:167 app/templates/base.html:172
+msgid "Profile"
+msgstr ""
+
+#: app/templates/base.html:176 app/templates/cart.html:17
+#: app/templates/cart.html:22
+msgid "Shopping Cart"
+msgstr ""
+
+#: app/templates/base.html:177 app/templates/portfolio.html:18
+#: app/templates/portfolio.html:23
+msgid "Portfolio"
+msgstr ""
+
+#: app/templates/base.html:178 app/templates/blog-base.html:7
+#: app/templates/blog-base.html:75
+msgid "Blog"
+msgstr ""
+
+#: app/templates/base.html:182 app/templates/my-account.html:42
+msgid "Log Out"
+msgstr ""
+
+#: app/templates/base.html:184
+msgid "Log In"
+msgstr ""
+
+#: app/templates/base.html:189
+msgid "Language"
+msgstr ""
+
+#: app/templates/base.html:261 app/templates/my-account.html:17
+#: app/templates/my-account.html:22
+msgid "My Account"
+msgstr ""
+
+#: app/templates/base.html:265
+msgid "Team Member"
+msgstr ""
+
+#: app/templates/base.html:266
+msgid "Career"
+msgstr ""
+
+#: app/templates/base.html:267
+msgid "Specials"
+msgstr ""
+
+#: app/templates/base.html:268
+msgid "Best sellers"
+msgstr ""
+
+#: app/templates/base.html:269
+msgid "Our stores"
+msgstr ""
+
+#: app/templates/base.html:270 app/templates/base.html:283
+msgid "Contact us"
+msgstr ""
+
+#: app/templates/base.html:279 app/templates/order.html:52
+msgid "Information"
+msgstr ""
+
+#: app/templates/base.html:284
+msgid "My orders"
+msgstr ""
+
+#: app/templates/base.html:285
+msgid "Terms & Conditions"
+msgstr ""
+
+#: app/templates/base.html:286
+msgid "Returns & Exchanges"
+msgstr ""
+
+#: app/templates/base.html:287
+msgid "Shipping & Delivery"
+msgstr ""
+
+#: app/templates/base.html:288 app/templates/base.html:303
+msgid "Privacy Policy"
+msgstr ""
+
+#: app/templates/base.html:297
+msgid "Quick Links"
+msgstr ""
+
+#: app/templates/base.html:300
+msgid "Support Center"
+msgstr ""
+
+#: app/templates/base.html:301
+msgid "Term & Conditions"
+msgstr ""
+
+#: app/templates/base.html:302 app/templates/cart.html:91
+#: app/templates/checkout.html:75
+msgid "Shipping"
+msgstr ""
+
+#: app/templates/base.html:304
+msgid "Help"
+msgstr ""
+
+#: app/templates/base.html:305
+msgid "Products Return"
+msgstr ""
+
+#: app/templates/base.html:306
+msgid "FAQS"
+msgstr ""
+
+#: app/templates/base.html:315 app/templates/single-product.html:158
+msgid "Categories"
+msgstr ""
+
+#: app/templates/base.html:355
+msgid "Address : 100 Pingleyuan, Chaoyang District, Beijing 100124, China."
+msgstr ""
+
+#: app/templates/admin/index.html:28 app/templates/auth/login.html:56
+#: app/templates/auth/register.html:51
+#: app/templates/auth/reset_password_application.html:50
+#: app/templates/base.html:367
+msgid "Email"
+msgstr ""
+
+#: app/templates/admin/order_modify.html:31 app/templates/base.html:379
+#: app/templates/my-account.html:74
+msgid "Phone"
+msgstr ""
+
+#: app/templates/base.html:402
+msgid "Site Map"
+msgstr ""
+
+#: app/templates/base.html:403
+msgid "Search Terms"
+msgstr ""
+
+#: app/templates/base.html:404
+msgid "Advanced Search"
+msgstr ""
+
+#: app/templates/base.html:405
+msgid "Orders and Returns"
+msgstr ""
+
+#: app/templates/base.html:406 app/templates/contact.html:9
+#: app/templates/contact.html:14
+msgid "Contact Us"
+msgstr ""
+
+#: app/templates/base.html:413
+msgid "Copyright"
+msgstr ""
+
+#: app/templates/base.html:413
+msgid "All Rights Reserved"
+msgstr ""
+
+#: app/templates/blog-add.html:69 app/templates/blog-base.html:49
+msgid "Add Blog"
+msgstr ""
+
+#: app/templates/blog-add.html:73
+msgid "Maximum 5 images, all images are below text"
+msgstr ""
+
+#: app/templates/blog-add.html:76
+msgid "Title"
+msgstr ""
+
+#: app/templates/admin/product.html:99
+#: app/templates/admin/product_modify.html:81 app/templates/blog-add.html:81
+#: app/templates/single-product.html:182
+msgid "Description"
+msgstr ""
+
+#: app/templates/blog-add.html:82
+msgid "Enter description here"
+msgstr ""
+
+#: app/templates/blog-add.html:86 app/templates/blog-add.html:90
+#: app/templates/blog-add.html:94 app/templates/blog-add.html:98
+#: app/templates/blog-add.html:102
+msgid "Image"
+msgstr ""
+
+#: app/templates/blog-add.html:106 app/templates/gustbook.html:136
+msgid "Post"
+msgstr ""
+
+#: app/templates/blog-base.html:43
+msgid "Shop Index"
+msgstr ""
+
+#: app/templates/blog-base.html:46
+msgid "Blog Index"
+msgstr ""
+
+#: app/templates/blog-base.html:52 app/templates/update.html:17
+msgid "Update"
+msgstr ""
+
+#: app/templates/blog-base.html:55 app/templates/gustbook.html:46
+msgid "Guest Book"
+msgstr ""
+
+#: app/templates/blog-index.html:19 app/templates/blog-index.html:40
+msgid "Time"
+msgstr ""
+
+#: app/templates/cart.html:40
+msgid "select"
+msgstr ""
+
+#: app/templates/cart.html:41
+msgid "images"
+msgstr ""
+
+#: app/templates/admin/base.html:83 app/templates/admin/order_modify.html:54
+#: app/templates/cart.html:42 app/templates/checkout.html:60
+#: app/templates/order.html:98
+msgid "Product"
+msgstr ""
+
+#: app/templates/cart.html:43
+msgid "Unit Price"
+msgstr ""
+
+#: app/templates/admin/product.html:31 app/templates/admin/product.html:107
+#: app/templates/admin/product_modify.html:71 app/templates/cart.html:44
+msgid "Discount"
+msgstr ""
+
+#: app/templates/cart.html:45 app/templates/order.html:99
+msgid "Quantity"
+msgstr ""
+
+#: app/templates/cart.html:46 app/templates/cart.html:92
+#: app/templates/checkout.html:61
+msgid "Total"
+msgstr ""
+
+#: app/templates/cart.html:47
+msgid "remove"
+msgstr ""
+
+#: app/templates/cart.html:88
+msgid "Cart totals"
+msgstr ""
+
+#: app/templates/cart.html:94
+msgid "Proceed to checkout"
+msgstr ""
+
+#: app/templates/checkout.html:17 app/templates/checkout.html:22
+msgid "Checkout"
+msgstr ""
+
+#: app/templates/checkout.html:55
+msgid "Your"
+msgstr ""
+
+#: app/templates/checkout.html:55
+msgid "order"
+msgstr ""
+
+#: app/templates/checkout.html:79
+msgid "Order Total"
+msgstr ""
+
+#: app/templates/checkout.html:91
+msgid "Shipping Info"
+msgstr ""
+
+#: app/templates/checkout.html:101
+msgid "Delivery Selection"
+msgstr ""
+
+#: app/templates/checkout.html:110
+msgid "Sorry. Due to the pandemic, pick-up choice is unavailable now"
+msgstr ""
+
+#: app/templates/checkout.html:117
+msgid "PICK UP"
+msgstr ""
+
+#: app/templates/admin/order_modify.html:34 app/templates/checkout.html:130
+#: app/templates/checkout.html:144 app/templates/my-account.html:75
+#: app/templates/order.html:81
+msgid "Address"
+msgstr ""
+
+#: app/templates/checkout.html:137 app/templates/checkout.html:139
+#: app/templates/checkout.html:141 app/templates/my-account.html:72
+msgid "Customer"
+msgstr ""
+
+#: app/templates/checkout.html:137
+msgid "Gentleman"
+msgstr ""
+
+#: app/templates/checkout.html:139
+msgid "Lady"
+msgstr ""
+
+#: app/templates/checkout.html:141 app/templates/my-account.html:89
+msgid "Unknown"
+msgstr ""
+
+#: app/templates/checkout.html:143 app/templates/order.html:70
+#: app/templates/order.html:141
+msgid "Phone Number"
+msgstr ""
+
+#: app/templates/checkout.html:153
+msgid "View or Edit"
+msgstr ""
+
+#: app/templates/checkout.html:158
+msgid "Order Notes"
+msgstr ""
+
+#: app/templates/checkout.html:159
+msgid "Please mention what you care about."
+msgstr ""
+
+#: app/templates/checkout.html:169
+msgid "Place Order"
+msgstr ""
+
+#: app/templates/contact.html:33
+msgid "TELL US YOUR PROJECT"
+msgstr ""
+
+#: app/templates/contact.html:59
+msgid "Send Email"
+msgstr ""
+
+#: app/templates/contact.html:69
+msgid "CONTACT US"
+msgstr ""
+
+#: app/templates/gustbook.html:51
+msgid "Share"
+msgstr ""
+
+#: app/templates/gustbook.html:53
+msgid "Fold Comment"
+msgstr ""
+
+#: app/templates/gustbook.html:82
+msgid "Comments"
+msgstr ""
+
+#: app/templates/gustbook.html:135
+msgid "We want your real feeling about this website"
+msgstr ""
+
+#: app/templates/index-3.html:12
+msgid "Music Instruments Collection"
+msgstr ""
+
+#: app/templates/index-3.html:26
+msgid "FREE SHIPPING"
+msgstr ""
+
+#: app/templates/index-3.html:27
+msgid "ALL ORDER OVER $100"
+msgstr ""
+
+#: app/templates/index-3.html:39
+msgid "DEDICATED SUPPORT"
+msgstr ""
+
+#: app/templates/index-3.html:52
+msgid "MONEY BACK"
+msgstr ""
+
+#: app/templates/index-3.html:53
+msgid "IF THE ITEM DIDN’T SUIT YOU"
+msgstr ""
+
+#: app/templates/index-3.html:65
+msgid "Our History"
+msgstr ""
+
+#: app/templates/index-3.html:66
+msgid "A little story about us"
+msgstr ""
+
+#: app/templates/index-3.html:74
+msgid ""
+"Founded in 1993 by the BECKER family in Dublin, Ireland, and is a family-"
+"owned musical instrument sales business. All of its business have been "
+"walk-in retail customers, and the company now wanted to expand into the "
+"online market."
+msgstr ""
+
+#: app/templates/index-3.html:75
+msgid ""
+"The company's main products are piano, violin, guitar, and other more "
+"than ten varieties and ancillary services, selling well in Dublin."
+msgstr ""
+
+#: app/templates/index-3.html:95 app/templates/index-3.html:108
+msgid "Category:"
+msgstr ""
+
+#: app/templates/index-3.html:98 app/templates/index-3.html:111
+msgid "Buy Now"
+msgstr ""
+
+#: app/templates/index-3.html:131 app/templates/index-3.html:315
+msgid "The Most Trendy"
+msgstr ""
+
+#: app/templates/index-3.html:132
+msgid "Featured Products"
+msgstr ""
+
+#: app/templates/index-3.html:150 app/templates/index-3.html:248
+#: app/templates/index-3.html:331
+msgid "Sale!"
+msgstr ""
+
+#: app/templates/index-3.html:166 app/templates/index-3.html:264
+#: app/templates/index-3.html:353 app/templates/shop.html:318
+#: app/templates/shop.html:368 app/templates/single-product.html:147
+#: app/templates/single-product.html:300
+msgid "Add To Cart"
+msgstr ""
+
+#: app/templates/index-3.html:189
+msgid "Deal of The Day"
+msgstr ""
+
+#: app/templates/index-3.html:316
+msgid "Bestseller Products"
+msgstr ""
+
+#: app/templates/my-account.html:41
+msgid "Dear"
+msgstr ""
+
+#: app/templates/my-account.html:42
+msgid "Switch Account?"
+msgstr ""
+
+#: app/templates/my-account.html:43
+msgid "Update Avatar?"
+msgstr ""
+
+#: app/templates/my-account.html:48
+msgid "Any Feedback Please E-Mail to Staff"
+msgstr ""
+
+#: app/templates/my-account.html:58
+msgid "Addresses"
+msgstr ""
+
+#: app/templates/my-account.html:59 app/templates/my-account.html:102
+msgid "Orders"
+msgstr ""
+
+#: app/templates/my-account.html:66
+msgid "ADDRESS"
+msgstr ""
+
+#: app/templates/my-account.html:66
+msgid "Add New"
+msgstr ""
+
+#: app/templates/my-account.html:73 app/templates/order.html:63
+msgid "Gender"
+msgstr ""
+
+#: app/templates/my-account.html:76
+msgid "Operations"
+msgstr ""
+
+#: app/templates/my-account.html:85
+msgid "Male"
+msgstr ""
+
+#: app/templates/my-account.html:87
+msgid "Female"
+msgstr ""
+
+#: app/templates/my-account.html:92
+msgid "Please View Detail"
+msgstr ""
+
+#: app/templates/my-account.html:94 app/templates/my-account.html:123
+msgid "View Detail"
+msgstr ""
+
+#: app/templates/my-account.html:107
+msgid "ID"
+msgstr ""
+
+#: app/templates/my-account.html:108
+msgid "Purchase Time"
+msgstr ""
+
+#: app/templates/admin/order.html:29 app/templates/admin/order_modify.html:25
+#: app/templates/my-account.html:109 app/templates/order.html:75
+msgid "Ship Method"
+msgstr ""
+
+#: app/templates/admin/order.html:30 app/templates/my-account.html:110
+msgid "Status"
+msgstr ""
+
+#: app/templates/admin/order_modify.html:28 app/templates/admin/product.html:30
+#: app/templates/admin/product.html:103
+#: app/templates/admin/product_modify.html:67 app/templates/my-account.html:111
+#: app/templates/order.html:93
+msgid "Price"
+msgstr ""
+
+#: app/templates/my-account.html:112
+msgid "Actions"
+msgstr ""
+
+#: app/templates/my-account.html:150
+msgid "Upload New Avatar"
+msgstr ""
+
+#: app/templates/admin/category.html:85 app/templates/admin/category.html:114
+#: app/templates/admin/category.html:143 app/templates/admin/product.html:147
+#: app/templates/admin/product.html:176
+#: app/templates/admin/product_modify.html:101
+#: app/templates/admin/product_modify.html:140
+#: app/templates/my-account.html:157 app/templates/order.html:169
+msgid "Confirm"
+msgstr ""
+
+#: app/templates/admin/base.html:84 app/templates/order.html:17
+msgid "Order"
+msgstr ""
+
+#: app/templates/order.html:22
+msgid "My Order"
+msgstr ""
+
+#: app/templates/admin/category.html:28 app/templates/admin/category.html:79
+#: app/templates/admin/product.html:28 app/templates/admin/product.html:95
+#: app/templates/admin/product.html:96
+#: app/templates/admin/product_modify.html:59 app/templates/order.html:58
+msgid "Name"
+msgstr ""
+
+#: app/templates/order.html:85
+msgid "Note"
+msgstr ""
+
+#: app/templates/order.html:87
+msgid "Edit Info"
+msgstr ""
+
+#: app/templates/order.html:118
+msgid "Order Total Price"
+msgstr ""
+
+#: app/templates/order.html:146
+msgid "Country"
+msgstr ""
+
+#: app/templates/order.html:151
+msgid "City"
+msgstr ""
+
+#: app/templates/order.html:156
+msgid "Street"
+msgstr ""
+
+#: app/templates/order.html:161
+msgid "Detail"
+msgstr ""
+
+#: app/templates/portfolio.html:38 app/templates/shop.html:150
+#: app/templates/shop.html:152
+msgid "all"
+msgstr ""
+
+#: app/templates/search.html:8
+msgid "Search by"
+msgstr ""
+
+#: app/templates/search.html:10
+msgid "total"
+msgstr ""
+
+#: app/templates/search.html:10
+msgid "passages"
+msgstr ""
+
+#: app/templates/shop.html:145
+msgid "Product Categories"
+msgstr ""
+
+#: app/templates/shop.html:168
+msgid "Filter by price"
+msgstr ""
+
+#: app/templates/shop.html:173
+msgid "price"
+msgstr ""
+
+#: app/templates/shop.html:176
+msgid "Filter"
+msgstr ""
+
+#: app/templates/shop.html:184
+msgid "Top Rated Products"
+msgstr ""
+
+#: app/templates/shop.html:266
+msgid "Sort By"
+msgstr ""
+
+#: app/templates/shop.html:268
+msgid "Nothing"
+msgstr ""
+
+#: app/templates/shop.html:269
+msgid "Name, A to Z"
+msgstr ""
+
+#: app/templates/shop.html:270
+msgid "Name, Z to A"
+msgstr ""
+
+#: app/templates/shop.html:271
+msgid "Price, low to high"
+msgstr ""
+
+#: app/templates/shop.html:272
+msgid "Price, high to low"
+msgstr ""
+
+#: app/templates/shop.html:276 app/templates/shop.html:279
+#: app/templates/shop.html:281
+msgid "Showing"
+msgstr ""
+
+#: app/templates/shop.html:276 app/templates/shop.html:279
+#: app/templates/shop.html:281
+msgid "of"
+msgstr ""
+
+#: app/templates/shop.html:276
+msgid "result"
+msgstr ""
+
+#: app/templates/shop.html:279 app/templates/shop.html:281
+msgid "results"
+msgstr ""
+
+#: app/templates/shop.html:302 app/templates/shop.html:341
+msgid "Sale"
+msgstr ""
+
+#: app/templates/single-product.html:30
+msgid "Single Product"
+msgstr ""
+
+#: app/templates/single-product.html:127
+msgid "customer review"
+msgstr ""
+
+#: app/templates/single-product.html:139
+msgid "in stock"
+msgstr ""
+
+#: app/templates/single-product.html:153
+msgid "Customer Service"
+msgstr ""
+
+#: app/templates/single-product.html:185
+msgid "Reviews"
+msgstr ""
+
+#: app/templates/single-product.html:200
+msgid "review for"
+msgstr ""
+
+#: app/templates/single-product.html:221
+msgid "Add a review"
+msgstr ""
+
+#: app/templates/single-product.html:228
+msgid "Very Good"
+msgstr ""
+
+#: app/templates/single-product.html:229
+msgid "Good"
+msgstr ""
+
+#: app/templates/single-product.html:230
+msgid "Moderate"
+msgstr ""
+
+#: app/templates/single-product.html:231
+msgid "Bad"
+msgstr ""
+
+#: app/templates/single-product.html:232
+msgid "Very Bad"
+msgstr ""
+
+#: app/templates/single-product.html:242
+msgid "Submit"
+msgstr ""
+
+#: app/templates/single-product.html:266
+msgid "Related products"
+msgstr ""
+
+#: app/templates/single-product.html:318
+msgid "Official"
+msgstr ""
+
+#: app/templates/single-product.html:319
+msgid "already"
+msgstr ""
+
+#: app/templates/single-product.html:319
+msgid "messages"
+msgstr ""
+
+#: app/templates/single-product.html:326
+msgid "waiting for customer service"
+msgstr ""
+
+#: app/templates/single-product.html:331
+msgid "Type your message"
+msgstr ""
+
+#: app/templates/admin/base.html:171 app/templates/admin/chat.html:39
+#: app/templates/single-product.html:336
+msgid "Send"
+msgstr ""
+
+#: app/templates/update.html:22
+msgid "Update to formal version"
+msgstr ""
+
+#: app/templates/update.html:25
+msgid "Fix comment box display error"
+msgstr ""
+
+#: app/templates/update.html:28
+msgid "Update add blog UI design"
+msgstr ""
+
+#: app/templates/update.html:31
+msgid "Change background image"
+msgstr ""
+
+#: app/templates/update.html:34
+msgid "Support multi-language"
+msgstr ""
+
+#: app/templates/update.html:37
+msgid "Add search function"
+msgstr ""
+
+#: app/templates/update.html:40
+msgid "Fix image display bug"
+msgstr ""
+
+#: app/templates/update.html:43
+msgid "Add comment feature"
+msgstr ""
+
+#: app/templates/update.html:46
+msgid "Support post images"
+msgstr ""
+
+#: app/templates/update.html:49
+msgid "First version"
+msgstr ""
+
+#: app/templates/admin/base.html:61
+msgid "Function"
+msgstr ""
+
+#: app/templates/admin/base.html:66
+msgid "ChatRoom"
+msgstr ""
+
+#: app/templates/admin/base.html:72
+msgid "Visualization"
+msgstr ""
+
+#: app/templates/admin/base.html:76
+msgid "Staff"
+msgstr ""
+
+#: app/templates/admin/base.html:79 app/templates/admin/order_modify.html:79
+msgid "Management"
+msgstr ""
+
+#: app/templates/admin/base.html:81 app/templates/admin/chat.html:22
+#: app/templates/admin/index.html:27
+msgid "User"
+msgstr ""
+
+#: app/templates/admin/base.html:82 app/templates/admin/product_modify.html:85
+msgid "Category"
+msgstr ""
+
+#: app/templates/admin/base.html:85
+msgid "Pandemic"
+msgstr ""
+
+#: app/templates/admin/base.html:122
+msgid "Head Staff"
+msgstr ""
+
+#: app/templates/admin/category.html:19
+msgid "Category Management"
+msgstr ""
+
+#: app/templates/admin/category.html:29 app/templates/admin/order.html:32
+#: app/templates/admin/product.html:33
+msgid "Operation"
+msgstr ""
+
+#: app/templates/admin/category.html:72
+msgid "Add New Category"
+msgstr ""
+
+#: app/templates/admin/category.html:100
+msgid "Remove Category"
+msgstr ""
+
+#: app/templates/admin/category.html:107 app/templates/admin/product.html:169
+msgid "Confirm Delete"
+msgstr ""
+
+#: app/templates/admin/category.html:129
+msgid "Modify Category"
+msgstr ""
+
+#: app/templates/admin/category.html:136
+msgid "Name Update"
+msgstr ""
+
+#: app/templates/admin/chat.html:23
+msgid "customer channel"
+msgstr ""
+
+#: app/templates/admin/data_visualize.html:20
+msgid "Recent Orders"
+msgstr ""
+
+#: app/templates/admin/data_visualize.html:30
+msgid "Category Order Amount"
+msgstr ""
+
+#: app/templates/admin/data_visualize.html:42
+msgid "Category Product Amount"
+msgstr ""
+
+#: app/templates/admin/data_visualize.html:52
+msgid "Word Cloud"
+msgstr ""
+
+#: app/templates/admin/index.html:19
+msgid "User Management"
+msgstr ""
+
+#: app/templates/admin/index.html:29
+msgid "Last Time"
+msgstr ""
+
+#: app/templates/admin/live.html:11
+msgid "Live"
+msgstr ""
+
+#: app/templates/admin/order.html:19
+msgid "Order Management"
+msgstr ""
+
+#: app/templates/admin/order.html:27
+msgid "Purchaser"
+msgstr ""
+
+#: app/templates/admin/order.html:28 app/templates/admin/order_modify.html:22
+msgid "Place Time"
+msgstr ""
+
+#: app/templates/admin/order.html:31
+msgid "Priority"
+msgstr ""
+
+#: app/templates/admin/order_modify.html:14
+msgid "Order Detail"
+msgstr ""
+
+#: app/templates/admin/order_modify.html:19
+msgid "Buyer"
+msgstr ""
+
+#: app/templates/admin/order_modify.html:46
+msgid "Related Product"
+msgstr ""
+
+#: app/templates/admin/order_modify.html:55
+msgid "Link"
+msgstr ""
+
+#: app/templates/admin/order_modify.html:84
+msgid "Created"
+msgstr ""
+
+#: app/templates/admin/order_modify.html:87
+msgid "Packing"
+msgstr ""
+
+#: app/templates/admin/order_modify.html:90
+msgid "In Delivery"
+msgstr ""
+
+#: app/templates/admin/order_modify.html:93
+msgid "Accomplished"
+msgstr ""
+
+#: app/templates/admin/order_modify.html:112
+msgid "PREV"
+msgstr ""
+
+#: app/templates/admin/order_modify.html:113
+msgid "NEXT"
+msgstr ""
+
+#: app/templates/admin/order_modify.html:114
+msgid "EDIT"
+msgstr ""
+
+#: app/templates/admin/pandemic.html:27
+msgid "Pandemic Management"
+msgstr ""
+
+#: app/templates/admin/pandemic.html:30
+msgid "Offline Store Status: "
+msgstr ""
+
+#: app/templates/admin/product.html:19
+msgid "Product Management"
+msgstr ""
+
+#: app/templates/admin/product.html:20
+msgid "ADD"
+msgstr ""
+
+#: app/templates/admin/product.html:29
+#: app/templates/admin/product_modify.html:63
+msgid "Weight"
+msgstr ""
+
+#: app/templates/admin/product.html:32 app/templates/admin/product.html:111
+#: app/templates/admin/product_modify.html:75
+msgid "Inventory"
+msgstr ""
+
+#: app/templates/admin/product.html:88
+msgid "Add New Product"
+msgstr ""
+
+#: app/templates/admin/product.html:118 app/templates/admin/product.html:123
+#: app/templates/admin/product.html:128
+msgid "Upload Image"
+msgstr ""
+
+#: app/templates/admin/product.html:162
+msgid "Remove Product"
+msgstr ""
+
+#: app/templates/admin/product_modify.html:13
+msgid "Product Detail"
+msgstr ""
+
+#: app/templates/admin/product_modify.html:123
+msgid "Modify Product Image"
+msgstr ""
+
+#: app/templates/auth/login.html:22 app/templates/auth/login.html:27
+#: app/templates/auth/login.html:50
+msgid "Login"
+msgstr ""
+
+#: app/templates/auth/login.html:42 app/templates/auth/register.html:37
+#: app/templates/auth/reset_password_application.html:36
+#: app/templates/auth/reset_password_execution.html:36
+msgid "NEW TO OUR SHOP"
+msgstr ""
+
+#: app/templates/auth/login.html:43 app/templates/auth/register.html:38
+#: app/templates/auth/reset_password_application.html:37
+#: app/templates/auth/reset_password_execution.html:37
+msgid "ALWAYS CHASING FOR BETTER MELODY AND TONE"
+msgstr ""
+
+#: app/templates/auth/login.html:44
+#: app/templates/auth/reset_password_application.html:38
+#: app/templates/auth/reset_password_execution.html:38
+msgid "Create an Account"
+msgstr ""
+
+#: app/templates/auth/login.html:60 app/templates/auth/register.html:65
+#: app/templates/auth/reset_password_execution.html:50
+msgid "Password"
+msgstr ""
+
+#: app/templates/auth/login.html:76
+msgid "Forget password"
+msgstr ""
+
+#: app/templates/auth/register.html:5 app/templates/auth/register.html:17
+#: app/templates/auth/register.html:22 app/templates/auth/register.html:45
+msgid "Register"
+msgstr ""
+
+#: app/templates/auth/register.html:39
+msgid "Login Your Account"
+msgstr ""
+
+#: app/templates/auth/register.html:58
+msgid "Username"
+msgstr ""
+
+#: app/templates/auth/register.html:72
+#: app/templates/auth/reset_password_execution.html:57
+msgid "Password Confirm"
+msgstr ""
+
+#: app/templates/auth/reset_password_application.html:5
+#: app/templates/auth/reset_password_application.html:17
+#: app/templates/auth/reset_password_application.html:22
+#: app/templates/auth/reset_password_application.html:44
+#: app/templates/auth/reset_password_execution.html:17
+#: app/templates/auth/reset_password_execution.html:22
+#: app/templates/auth/reset_password_execution.html:44
+msgid "Reset Password"
+msgstr ""
+
